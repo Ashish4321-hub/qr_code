@@ -3,6 +3,7 @@ This Python script generates QR codes containing personal information such as co
 
 Features
 
-Generate QR codes with custom personal information.
-Save generated QR codes as PNG images.
-Easy-to-use command-line interface.
+1.Generate QR codes with custom personal information.
+2.Save generated QR codes as PNG images.
+3.Easy-to-use command-line interface.
+<img href="Ashish_github.png">
