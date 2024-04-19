@@ -12,4 +12,4 @@ qr.make(fit=True)
 img = qr.make_image(fill_color="black", back_color="white")
 
 
-img.save("My_QR.png")
+img.save("Ashish_github.png")
